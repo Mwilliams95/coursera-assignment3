@@ -1,0 +1,31 @@
+.nav-header{
+	background-color: rgb(153,153,153);
+}
+
+.navbar-brand  {
+	font-weight: bold;
+	font-size: 1.8em;
+	font-color:black;
+}
+
+.navbar-nav{
+	background-color:orange;
+}
+
+#nav-list{
+	text-align: center;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+.container{
+  background-color: rgb(153,153,153);
+  width:80%;
+}
+
+h1{
+	padding: 10px;
+	font-weight: bold;
+}
+h3{
+	font-weight: bold;
+}
